@@ -23,3 +23,6 @@ Respond
 {"azimuth":2.993996513805611,"altitude":-1.1569317866783029}
 ```
 ***Note*** : It's radian unit
+
+## Rotating Motor Algorithms
+Linear , directly
