@@ -1,7 +1,6 @@
 import('../suncalc/suncalc.js');
 const http = require('http');
 const SunCalc = require('../suncalc/suncalc.js');
-// const{ DateTime } = require('luxon');
 const { getPosition } = require('../suncalc/suncalc.js');
 // console.log(getPosition(new Date().toLocaleString("en-US", {timeZone:  'Asia/Ho_Chi_Minh'}),10.816572, 106.674488 ));
 const hostname = '127.0.0.1';
